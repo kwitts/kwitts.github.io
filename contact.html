@@ -14,21 +14,22 @@ permalink: /contact/
                 <p>{{ site.about }}</p>
                 <form action="//formspree.io/kristi@kristiwitts.com" method="POST" role="form">
                   <div class="form-group">
-                    <label for="InputName1">Your Name</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1">
+                    <label for="Name">Your Name</label>
+                    <input type="text" name="Name" class="form-control">
                   </div>
                   <div class="form-group">
-                    <label for="InputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
+                    <label for="Email">Your Email</label>
+                    <input type="email" name="Email" class="form-control">
                   </div>
                   <div class="form-group">
-                    <label for="InputSubject1">Subject</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1">
+                    <label for="Subject">Subject</label>
+                    <input type="text" name="Subject" class="form-control">
                   </div>
                   <div class="form-group">
                     <label for="message1">Message</label>
-                    <textarea class="form-control" id="message1" rows="3"></textarea>
+                    <textarea class="form-control" rows="3"></textarea>
                   </div>
+                  <input type="text" name="_gotcha" style="display:none" />
                   <input type="hidden" name="_next" value="/thanks/" />
                   <button type="submit" class="btn btn-theme">Submit</button>
                 </form>
