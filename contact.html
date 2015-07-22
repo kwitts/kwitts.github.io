@@ -12,7 +12,7 @@ permalink: /contact/
             <h4>Just Get In Touch!</h4>
             <div class="hline"></div>
                 <p>{{ site.about }}</p>
-                <form role="form">
+                <form action="//formspree.io/kristi@kristiwitts.com" method="POST" role="form">
                   <div class="form-group">
                     <label for="InputName1">Your Name</label>
                     <input type="email" class="form-control" id="exampleInputEmail1">
@@ -29,18 +29,14 @@ permalink: /contact/
                     <label for="message1">Message</label>
                     <textarea class="form-control" id="message1" rows="3"></textarea>
                   </div>
+                  <input type="hidden" name="_next" value="/thanks/" />
                   <button type="submit" class="btn btn-theme">Submit</button>
                 </form>
         </div><! --/col-lg-8 -->
 
         <div class="col-lg-4">
-            <h4>Our Address</h4>
+            <h4>Other Ways to Contact Me</h4>
             <div class="hline"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
                 <p>
                     Email: {{ site.email }}<br/>
                     Tel: {{ site.tel }}
