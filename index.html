@@ -4,16 +4,18 @@ title: Home
 permalink: /
 ---
 
+<div class="container mtb">
+    <div class="row centered">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2>A Little About Me</h2>
+            <p>{{ site.about }} My focus is on giving users a unique and simple interface that will turn them into repeat visitors.</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Learn More About Me</a></p>
+            <div class="hline"></div>
+        </div>
+    </div>
+</div>
 <div id="service">
     <div class="container">
-        <div class="row centered">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>A Little About Me</h2>
-                <p>{{ site.about }}</p>
-                <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More About Me</a></p>
-                <div class="hline"></div>
-            </div>
-        </div>
         <div class="row centered">
             <div class="col-md-4">
                 <i class="fa fa-diamond"></i>
@@ -40,10 +42,15 @@ permalink: /
 {% include portfolio.html title="MY WORK" limit=10 %}
 
 <div class="container mtb">
-    <div class="row">
+    <div class="row centered">
         <div class="col-lg-8 col-lg-offset-1">
-            <h2>Get in Touch</h2>
-            <p><br/><a href="{{ "/contact/" | prepend: site.baseurl }}" class="btn btn-theme">Contact Me</a></p>
+            <h2>The Bottom Line</h2>
+            <p>You're here for a reason. Maybe that's to see my work, or to learn more about me. Maybe you just want to cut to the chase and get in touch. Whatever your reason, I've got you covered.</p>
+            <p><br/>
+                <a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Learn About Me</a>
+                <a href="{{ "/portfolio/" | prepend: site.baseurl }}" class="btn btn-theme">See My Work</a>
+                <a href="{{ "/contact/" | prepend: site.baseurl }}" class="btn btn-theme">Contact Me</a>
+            </p>
         </div>
     </div>
 </div>
