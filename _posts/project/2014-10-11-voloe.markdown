@@ -16,4 +16,4 @@ website: http://voloe.com
 Voloe is an online network designed to help you make a list to then share with friends and family.
 
 ####My Role
-I designed, built, and continue to enhance the experience of the entire website. With HTML5/CSS3, Javascript/JQuery, and team of amazing back-end developers, the site is a growing community of dreamers with goals.
+I designed, built, and continue to enhance the experience of the entire website. With HTML5/CSS3, Javascript/JQuery, and team of amazing back-end developers, the site is a growing community of dreamers with goals. I also designed all graphics, including the logo.
