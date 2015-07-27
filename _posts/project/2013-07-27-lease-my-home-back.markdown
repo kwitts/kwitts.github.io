@@ -5,7 +5,7 @@ date:   2013-07-27 14:10:46
 author: Kristi Witts
 categories:
 - project
-img: portfolio1.jpg
+img: portfolio1.png
 thumb: thumb01.jpg
 carousel:
 client: Homeowner Toolbox
