@@ -7,12 +7,6 @@ categories:
 - project
 img: portfolio1.jpg
 thumb: thumb01.jpg
-tagged:
-- UI
-- Front End Development
-- HTML/CSS
-- AfterEffects
-- Illustrator
 carousel:
 client: Homeowner Toolbox
 website: http://leasemyhomeback.com
