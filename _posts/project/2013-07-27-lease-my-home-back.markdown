@@ -8,6 +8,7 @@ categories:
 img: portfolio1.png
 thumb: thumb01.jpg
 carousel:
+- portfolio1.png
 client: Homeowner Toolbox
 website: http://leasemyhomeback.com
 ---
