@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Voloe"
+date:   2014-10-11 14:10:46
+author: Kristi Witts
+categories:
+- project
+img: portfolio4.png
+thumb: thumb01.jpg
+carousel:
+- portfolio4.png
+client: Voloe
+website: http://voloe.com
+---
+####Voloe
+Voloe is an online network designed to help you make a list to then share with friends and family.
+
+####My Role
+I designed, built, and continue to enhance the experience of the entire website. With HTML5/CSS3, Javascript/JQuery, and team of amazing back-end developers, the site is a growing community of dreamers with goals.

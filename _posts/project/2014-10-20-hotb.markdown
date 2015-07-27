@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "HOTB Software Solutions"
+date:   2014-10-20 14:10:46
+author: Kristi Witts
+categories:
+- project
+img: portfolio2.png
+thumb: thumb01.jpg
+carousel:
+- portfolio2.png
+client: Homeowner Toolbox/HOTB Software Solutions
+website: http://hotbsoftware.com
+---
+####HOTB Software Solutions
+HOTB Software is a software development company whose software is used by a number of private sector organizations, hundreds of State Government personnel, over a thousand nonprofit counseling agencies, and thousands of nonprofit housing counselors.
+
+####My Role
+I designed the site and built it using HTML5/CSS3 and Javascript/JQuery. I used Illustrator to design the layout and Notepad++ to code.
