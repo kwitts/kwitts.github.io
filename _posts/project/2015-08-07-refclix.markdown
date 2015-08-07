@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "ReferralClix"
+date:   2015-08-07 12:53:46
+author: Kristi Witts
+categories:
+- project
+img: portfolio6.png
+thumb: thumb01.jpg
+carousel:
+- portfolio6.png
+client: ReferralClix
+website: http://referralclix.com
+---
+####Bizpetrol
+REFERRALCLIX HELPS YOU ACQUIRE NEW CUSTOMERS WITH CUSTOMIZABLE REFER-A-FRIEND PROGRAMS.
+
+####My Role
+Designed and built website using mobile-first HTML5/CSS3, CSS animations/transitions, and Javascript/JQuery.
