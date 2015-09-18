@@ -2,7 +2,7 @@
 
 # Site settings
 title: Kristi Witts
-description: "Portfolio for southern California based front-end web developer, Kristi Witts"
+description: "Portfolio for southern California based web designer & developer, Kristi Witts"
 analytics: UA-65704121-1
 baseurl: "" #important: start with /
 url: "http://dev.kristiwitts.com"
@@ -95,7 +95,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "I am a front-end web developer in southern California with a focus on clean, mobile-first design and user-friendly web experiences."
+about: "I am a web designer & developer in Southern California with a focus on clean, mobile-first design and user-friendly web experiences."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
