@@ -17,3 +17,6 @@ ReferralClix helps you acquire new customers with customizable refer-a-friend pr
 
 ####My Role
 Designed and built website using mobile-first HTML5/CSS3, CSS animations/transitions, and Javascript/JQuery. Currently working on an admin backend dashboard for users of the ReferralClix referral marketing product using HTML, CSS, Bootstrap, Node.js, and AngularJS.
+
+####Technology Used
+Illustrator &bull; HTML5/CSS3 &bull; Javascript/jQuery &bull; CSS Animations/Transitions &bull; Bootstrap &bull; Boilerplate &bull; node.js &bull; AngularJS &bull; Atom &amp; Git &bull; Filezilla for FTP
