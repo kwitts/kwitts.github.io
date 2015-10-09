@@ -16,4 +16,4 @@ website: http://hotbsoftware.com
 HOTB Software is a software development company whose software is used by a number of private sector organizations, hundreds of State Government personnel, over a thousand nonprofit counseling agencies, and thousands of nonprofit housing counselors.
 
 ####My Role
-I designed the site and built it using HTML5/CSS3 and Javascript/JQuery. I used Illustrator to design the layout and Notepad++ to code.
+I designed and built the website using HTML5/CSS3 and Javascript/JQuery. Non-mobile optimized at the request of the company. I used Illustrator to design the layout and Notepad++ to code.
