@@ -17,3 +17,6 @@ HOTB Software is a software development company whose software is used by a numb
 
 ####My Role
 I designed and built the website using HTML5/CSS3 and Javascript/JQuery. Non-mobile optimized at the request of the company. I used Illustrator to design the layout and Notepad++ to code.
+
+####Technology Used
+Illustrator &bull; HTML5/CSS3 &bull; Javascript/jQuery &bull; Notepad++ &bull; Git

@@ -17,3 +17,6 @@ Kathy Kaehler is the creator of Sunday Set-up, radio show host, celebrity fitnes
 
 ####My Role
 I designed, built, and set up the website with Wordpress and I manage the posting and creation of new content.
+
+####Technology Used
+Wordpress &bull; PHP &bull; Illustrator &bull; Javascript/jQuery
