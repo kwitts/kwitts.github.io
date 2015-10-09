@@ -16,4 +16,4 @@ website: http://bizpetrol.com
 Bizpetrol is a lending platform designed by industry veterans.
 
 ####My Role
-Designed and built one-page site using mobile-first HTML5/CSS3, CSS animations/transitions, and Javascript/JQuery.
+Designed and built one-page site using mobile-first HTML5/CSS3, CSS animations/transitions, HTML5 Boilerplate, and Javascript/JQuery.
