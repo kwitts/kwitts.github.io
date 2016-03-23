@@ -219,7 +219,7 @@ a:focus {
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	background-img: url('/assets/img/home-bg.jpg');
-	background:position: center;
+	background-position: top left;
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 0px;
