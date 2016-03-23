@@ -12,11 +12,12 @@ carousel:
 client: Bizpetrol
 website: http://bizpetrol.com
 ---
-####Bizpetrol
+
+#### Bizpetrol
 Bizpetrol is a lending platform designed by industry veterans.
 
-####My Role
+#### My Role
 Designed and built one-page site using mobile-first HTML5/CSS3, CSS animations/transitions, HTML5 Boilerplate, and Javascript/JQuery.
 
-####Technology Used
+#### Technology Used
 Illustrator &bull; HTML5/CSS3 &bull; CSS Animations/Transitions &bull; HTML5 Boilerplate &bull; Javascript/jQuery &bull; Git

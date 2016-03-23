@@ -12,11 +12,12 @@ carousel:
 client: Kathy Kaehler
 website: http://kathykaehler.net
 ---
-####Kathy Kaehler & Sunday Set-up
+
+#### Kathy Kaehler & Sunday Set-up
 Kathy Kaehler is the creator of Sunday Set-up, radio show host, celebrity fitness coach, and Better Living Expert.
 
-####My Role
+#### My Role
 I designed, built, and set up the website with Wordpress and I manage the posting and creation of new content.
 
-####Technology Used
+#### Technology Used
 Wordpress &bull; PHP &bull; Illustrator &bull; Javascript/jQuery
