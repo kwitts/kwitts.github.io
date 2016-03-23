@@ -218,7 +218,7 @@ a:focus {
 
 #headerwrap {
 	background-color: {{ site.colors.primary }};
-	background: url(/assets/img/home-bg.jpg)
+	background: url(/assets/img/home-bg.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
