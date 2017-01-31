@@ -1,56 +1,14 @@
 ---
-layout: index
-title: Home
-permalink: /
+layout: default
 ---
 
-<div class="container mtb">
-    <div class="row centered">
-        <div class="col-lg-8 col-lg-offset-2">
-            <h3>A Little About Me</h3>
-            <p>{{ site.about }} My focus is on giving users a unique and simple interface that will turn them into repeat visitors, and developing using new tachnologies and robust code.</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Learn More About Me</a></p>
-            <div class="hline"></div>
-        </div>
-    </div>
-</div>
-<div id="service">
-    <div class="container">
-        <div class="row centered">
-            <div class="col-md-4">
-                <i class="fa fa-diamond"></i>
-                <h4>UX/UI Design</h4>
-                <p>With good design comes repeat visitors. I strive for clean, simple design in visual experiences, and clean, readable code in development.</p>
-                <!-- <p><br/><a href="#" class="btn btn-theme">More Info</a></p> -->
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-file-code-o"></i>
-                <h4>Development</h4>
-                <p>Well-written and documented code makes future changes a breeze. I can code anything I design using HTML5, CSS3, LESS/SASS, and JQuery.</p>
-                <!-- <p><br/><a href="#" class="btn btn-theme">More Info</a></p> -->
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-mobile"></i>
-                <h4>Mobile-First</h4>
-                <p>Mobile compatability is very important in the age of smartphones. My process includes making sure your site looks great on any size screen.</p>
-                <!-- <p><br/><a href="#" class="btn btn-theme">More Info</a></p> -->
-            </div>
-        </div>
-    </div>
-</div>
+            
+{% include career-profile.html %}
+            
+{% include experience.html %}
+            
+{% include projects.html %}
+            
+{% include skills.html %}
 
-{% include portfolio.html title="MY RECENT WORK" limit=5 %}
 
-<div class="container mtb">
-    <div class="row centered">
-        <div class="col-lg-8 col-lg-offset-2">
-            <h3>The Bottom Line</h3>
-            <p>You're here for a reason. Maybe that's to see my work, or to learn more about me. Maybe you just want to cut to the chase and get in touch. Whatever your reason, I've got you covered.</p>
-            <p><br/>
-                <a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Learn About Me</a>
-                <a href="{{ "/portfolio/" | prepend: site.baseurl }}" class="btn btn-theme">See My Work</a>
-                <a href="{{ "/contact/" | prepend: site.baseurl }}" class="btn btn-theme">Contact Me</a>
-            </p>
-        </div>
-    </div>
-</div>
